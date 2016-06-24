@@ -8,7 +8,7 @@ Special Features:
 PHP/HTML code encryption 256 bits  (ECC).
 Include Very strong SHA256 personal keys.
 CRC integrity check.
-License is great: Free for commercial and non commercial use. (MIT) please support us (DONATE)
+License is great: Free for commercial and non commercial use. (MIT) 
 Time expiry, the license can be set to expire of specific date or after specific time interval.
 Usage Restricted to specific hardware, linked to hardware id.
 Usage Restricted to specific IP, linked to the PHP server IP.
@@ -28,3 +28,7 @@ Limiting unauthorized duplication or use of your applications.
 All code is encrypted, In order to make the code difficult to understand by others, without affecting code execution.  
 Protect their intellectual property.  
 Saving in software expenses licenses.
+
+
+more info: 
+http://coldev.blogspot.com.co/
