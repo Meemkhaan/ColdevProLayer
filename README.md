@@ -1,4 +1,4 @@
-(Support PHP 5.4/5.5/5.6/7.0/7.1/7.2/7.3)
+(Support PHP 5.4/5.5/5.6/7.0/7.1/7.2/7.3/8.02)
 
  
 ColdevProLayer is a License Manager, for encrypt  PHP files helps you to manage the distribution of PHP applications by generating license files that can required byte encoded files to run. Using license manager you can create trial and demo versions of PHP applications without any code changes.  Distribute applications without source code.
